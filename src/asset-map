@@ -1,0 +1,200 @@
+// Asset Map (Read-Only)
+// Edit assets in the Media tab.
+// Use these IDs alongside lib to reference assets in your code:
+//
+// Example: lib.getAsset["player_sprite"]
+
+const assets = {
+  "red_bird": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/red_bird_d9690c5c-b230-45ba-ae75-87f3cce27bed.webp",
+    "type": "image",
+    "aspect_ratio": [
+      916,
+      914
+    ]
+  },
+  "small_pig": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/small_pig_59510691-ac30-447c-adef-95229c0864fd.webp",
+    "type": "image",
+    "aspect_ratio": [
+      897,
+      998
+    ]
+  },
+  "slingshot_frame": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/slingshot_frame_2eafae54-f1dc-4d3d-aad7-e96b5c30bf33.webp",
+    "type": "image",
+    "aspect_ratio": [
+      710,
+      895
+    ]
+  },
+  "background_sky": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/background_sky_ea6b171c-fc31-4ec8-9cdf-4fbd16b0128b.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1024,
+      1536
+    ]
+  },
+  "play_button_icon": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/play_button_icon_f4a8c277-f229-4bd6-b7bf-c7c28ceac8d7.webp",
+    "type": "image",
+    "aspect_ratio": [
+      862,
+      859
+    ]
+  },
+  "pause_button_icon": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/pause_button_icon_39dbcaa8-eed5-43a0-b45f-3c22b1736db7.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1024,
+      1020
+    ]
+  },
+  "restart_button_icon": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/restart_button_icon_64024301-ecdd-4681-bac6-597a50f603b0.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1024,
+      1020
+    ]
+  },
+  "next_button_icon": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/next_button_icon_362b5812-c139-4ef8-b333-ae30cc47b398.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1024,
+      1020
+    ]
+  },
+  "dust_particle": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/dust_particle_a3fe44dd-ac00-40c1-a3ba-e1d2ca7bbb1f.webp",
+    "type": "image",
+    "aspect_ratio": [
+      870,
+      840
+    ]
+  },
+  "wood_debris_particle": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/wood_debris_particle_26dc532c-f906-4073-9a2f-3e69a9894b5a.webp",
+    "type": "image",
+    "aspect_ratio": [
+      246,
+      319
+    ]
+  },
+  "glass_shard_particle": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/glass_shard_particle_7971e7cd-dfcc-4e9a-97cb-88cdbccaa8b0.webp",
+    "type": "image",
+    "aspect_ratio": [
+      597,
+      895
+    ]
+  },
+  "slingshot_pull_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/slingshot_pull_sfx_defe8952-45e0-452f-86ed-aefa587dcd5f.mp3",
+    "type": "audio"
+  },
+  "bird_launch_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/bird_launch_sfx_d842fcb4-0752-4ca9-8d53-71711ec0d868.mp3",
+    "type": "audio"
+  },
+  "wood_impact_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/wood_impact_sfx_e628b24f-e581-42a5-aeec-b0c901e3c88c.mp3",
+    "type": "audio"
+  },
+  "glass_break_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/glass_break_sfx_fed84652-a5ce-4c3c-a38e-d5bfef95b609.mp3",
+    "type": "audio"
+  },
+  "stone_impact_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/stone_impact_sfx_b3d7f9a9-7c07-4ab6-bb70-2875f155604f.mp3",
+    "type": "audio"
+  },
+  "pig_defeat_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/pig_defeat_sfx_1e796cb7-5e0c-4382-b1f4-6ef8ee53a92e.mp3",
+    "type": "audio"
+  },
+  "level_win_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/level_win_sfx_560f4aca-e0e5-4102-b94c-5dc5c9a0168a.mp3",
+    "type": "audio"
+  },
+  "level_lose_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/level_lose_sfx_f0268884-d047-4d13-8a87-c8c7a88e8cd7.mp3",
+    "type": "audio"
+  },
+  "button_click_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/button_click_sfx_1beae9a0-1660-43a6-bc11-0afe08adf557.mp3",
+    "type": "audio"
+  },
+  "blue_bird": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/blue_bird_7976c448-3aff-466e-a5fa-ba925bac34f2.webp",
+    "type": "image",
+    "aspect_ratio": [
+      886,
+      744
+    ]
+  },
+  "yellow_bird": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/yellow_bird_8b343510-a9d7-4074-9597-565554e47aa2.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1011,
+      1015
+    ]
+  },
+  "black_bird": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/black_bird_0cc8e69f-2df9-4a57-8cfd-863319f66787.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1024,
+      967
+    ]
+  },
+  "green_bird": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/green_bird_dac52bbb-ddd1-497c-9633-2b1251fd05a7.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1014,
+      972
+    ]
+  },
+  "pink_bird": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/pink_bird_29eb17e0-6a6c-47bf-9ba3-e90522c4b6f4.webp",
+    "type": "image",
+    "aspect_ratio": [
+      926,
+      1002
+    ]
+  },
+  "orange_bird": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/orange_bird_009b9ad6-0bed-4b10-9a94-a913a6ea4c20.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1023,
+      1021
+    ]
+  },
+  "brown_bird": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/brown_bird_f982d9f9-40ae-4094-bc4a-4baed9d89cba.webp",
+    "type": "image",
+    "aspect_ratio": [
+      932,
+      998
+    ]
+  },
+  "purple_bird": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/purple_bird_e31462f5-70f7-41e7-a175-f0e58b115875.webp",
+    "type": "image",
+    "aspect_ratio": [
+      965,
+      1019
+    ]
+  },
+  "tnt_explosion_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/tnt_explosion_sfx_4b903fab-0d79-49a8-bca6-c01edd37def3.mp3",
+    "type": "audio"
+  }
+};
